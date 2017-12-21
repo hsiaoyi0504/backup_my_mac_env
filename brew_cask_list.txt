@@ -1,0 +1,7 @@
+docker
+java
+julia
+robomongo
+rstudio
+visual-studio-code
+xquartz
